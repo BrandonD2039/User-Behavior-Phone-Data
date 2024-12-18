@@ -1,5 +1,5 @@
 # Portfolio Piece - Analyzing User Behavior Based on Mobile Device Usage
-This is a dataset based on the analysis of mobile device usage patterns and user-behavior. This is my first ever portfolio-project and I had a great time trialing and error through some of the queries to get the result I wanted.                           
+This is a dataset based on the analysis of mobile device usage patterns and user-behavior. This is my first ever portfolio project and I had a great time trialing and error through some of the queries to get the result I wanted.                           
 <sub>so go easy on me ;) </sub>
 
 ## Project Scope
