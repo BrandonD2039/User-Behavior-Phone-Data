@@ -8,7 +8,7 @@ This project required a small amount of manipulation in excel, DDL and DML in SQ
 
 ## Dataset
 This dataset was found while browsing around on Kaggle, titled, "Mobile Device Usage and User Behavior Dataset
-" by Vala Khorasani [It can be found here](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
+" by Vala Khorasani [It can be found here.](https://www.kaggle.com/datasets/valakhorasani/mobile-device-usage-and-user-behavior-dataset)
 
 ## Lessons Learned:
 Prior to this, I have had little experience with typing queries such as these. I found CASE to be extremely useful when making buckets for ages in some of the queries. Another key-knowledge point for this project was seperating the queries into more "business jargon" 
